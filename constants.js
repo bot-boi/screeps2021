@@ -13,4 +13,4 @@ Object.assign(global, {
     TASK_GATHER_METHOD: 'taskGatherMethod',
     TASK_UPGRADE_CONTROLLER: 'taskUpgradeController',
     TASK_UPGRADE_CONTROLLER_METHOD: 'taskUpgradeControllerMethod',
-});
+  });
